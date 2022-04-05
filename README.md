@@ -33,3 +33,9 @@ span {
 
       }
 ```
+
+### Documentation/Comments 
+
+**Multi-line comment** : `/* It is used when we have commnents that are more than 1 lines */`
+
+**Single-line comment** : `// as the name suggests, this sort of commentation is used for short single line comments//` 
