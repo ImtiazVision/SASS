@@ -15,3 +15,21 @@ SASS recognizes two forms of syntax:
 2. SCSS Syntax 
 
 **SASS Syntax** : Indentation is used to indicate code blocks, while newlines are used to divide lines inside a block. The.sass extension is used to save these files.
+
+**SCSS Syntax** : SCSS is a CSS syntax extension (Sassy syntax). Curly braces are used to mark code blocks, while semicolons are used to divide lines inside a block. The.scss extension is used to store these files.
+
+```
+.new {
+
+       color:#0035df;
+
+       font-weight:bold;
+
+      }
+
+span {
+
+       text-transform:lowercase;
+
+      }
+```
