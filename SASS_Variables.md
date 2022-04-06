@@ -8,3 +8,19 @@ $color: blue;
 ```
 
 Variables may take the form of a string, color, boolean, null, or a list of values.
+
+
+### SASS Datatypes : 
+
+- Numbers
+
+- Strings
+
+- Colors
+
+- Booleans and Nulls
+
+- Lists
+
+- Map
+
